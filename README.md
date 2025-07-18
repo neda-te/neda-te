@@ -6,7 +6,10 @@
 Here are some ideas to get you started:
 -->
 -💻 CS student @ RWTH Aachen <br>
--🔬 Interested in machine learning, software development, neuroinspired & Quantum Computing  
+-🔬 Interested in <br>
+🤖 machine learning, 
+💻 software development, 
+🧠 neuroinspired & ⚛️ Quantum Computing  
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" alt="Java" width="50"/>
   &nbsp;&nbsp;&nbsp;
