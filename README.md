@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 💻 CS student @ RWTH Aachen 
 🔬 Interested in machine learning, software development, neuroinspired & Quantum Computing  
-![image](https://github.com/user-attachments/assets/cfc4a431-6652-4377-b778-1c009bc2102e)
+![image](https://github.com/user-attachments/assets/cfc4a431-6652-4377-b778-1c009bc2102e) | <img src="https://tse3.mm.bing.net/th/id/OIP.tKqvz1RRkROzlW9JFuH5nwHaHW?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="300">
 python, C, C++(OpenGL), Latex, SQL, Shell, GitLab, Git, Jupyter, Docker
 
