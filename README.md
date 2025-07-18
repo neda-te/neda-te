@@ -14,13 +14,13 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OpenGL_logo.svg" alt="OpenGL" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo_with_text.png" alt="OpenGL" width="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" width="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/353498/bash-icon.svg" alt="Shell/Bash" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="50"/>
   &nbsp;&nbsp;&nbsp;
