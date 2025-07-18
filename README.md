@@ -16,7 +16,9 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo_with_text.png" alt="OpenGL" width="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/>
+  <span style="background-color:white; padding:2px; border-radius:6px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/>
+  </span>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" width="50"/>
   &nbsp;&nbsp;&nbsp;
