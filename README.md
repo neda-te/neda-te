@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;
   <img src="https://img1.pnghut.com/17/4/21/gRuceD82g3/information-brand-mysql-query-language-sql-injection.jpg" alt="SQL" width="50" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://tse4.mm.bing.net/th/id/OIP.-QnIIy1rGvF2-k22yI1x1QHaHL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Shell" width="50" />
+  <img src="https://axxius.nl/wp-content/uploads/2021/03/Bash-logo.jpg" alt="Shell" width="50" />
 </p>
 
  GitLab, Git, Jupyter, Docker
