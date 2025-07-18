@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo_with_text.png" alt="OpenGL" width="50"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo_with_text.png](https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png)" alt="OpenGL" width="50"/>
   &nbsp;&nbsp;&nbsp;
   <span style="background-color:white; padding:2px; border-radius:6px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/>
