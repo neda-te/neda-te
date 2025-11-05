@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenGL_logo_with_text.png" alt="OpenGL" width="50"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="LaTeX" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)" alt="LaTeX" width="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" width="50"/>
   &nbsp;&nbsp;&nbsp;
