@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 B.Sc. Computer Science student at RWTH Aachen University focused on systems programming and embedded systems.  
-Experience in C, Rust, and Python, with projects ranging from microcontroller-based operating systems to process mining algorithms.  
+Experience in Java, C, Rust, and Python, with projects ranging from microcontroller-based operating systems to process mining algorithms.  
 Currently developing an Inductive Miner implementation in Rust for my Bachelor thesis.
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" alt="Java" width="50"/>
